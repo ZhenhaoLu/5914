@@ -5,6 +5,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
 
+//Update Test
 public class DiscoveryGUI {
     private Page discoveryControl;
     private JFrame frame;
